@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+    background-color: black;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+a{
+    color: white;
+}
+.lan{
+    width: 150px;
+
+}

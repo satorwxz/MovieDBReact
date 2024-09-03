@@ -1,0 +1,13 @@
+.layout-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    min-height: calc(100vh - 233px);
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    padding: 100px 15px;
+    margin: 0 auto;
+}
